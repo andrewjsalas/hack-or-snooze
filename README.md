@@ -1,4 +1,4 @@
-## Hack or Snooze: Cumulitive project for Springboard Software Engineering Bootcamp
+## Hack or Snooze: Cumulative project for Springboard Software Engineering Bootcamp
 ### View the live demo!: https://hack-or-snooze.netlify.app/
 
 #### The goal of this project was to create a clone of the website Hacker News: https://news.ycombinator.com/
